@@ -1,3 +1,9 @@
 /tableau_api/pvt_tableau_api_admin.py
 /tableau_api/pvt_tableau_api_client_creds.py
-/tableau_api/tableau_api_get_sites_NOTUSED.py
+/tableau_api/pvt_tableau_api_get_sites_notused.py
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/tableau_api.iml
+.idea/vcs.xml
