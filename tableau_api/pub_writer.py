@@ -62,12 +62,3 @@ def csv_writer(obj, root_folder='Testing', sub_folder='Testing', file_name=None,
             else:
                 for line in obj:
                     writer.writerow(line)
-
-
-# # DEBUG
-# csv_writer(obj=['1', '2', '3'],
-#            sub_folder='ByName',
-#            env='local',
-#            root_folder='DW-OSTEO',
-#            file_name='TestFileName')
-# print('Success!')
