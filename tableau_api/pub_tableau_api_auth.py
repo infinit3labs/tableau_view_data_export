@@ -5,6 +5,7 @@ import tableau_api.pub_tableau_api_urls as ta_urls
 import tableau_api.pvt_tableau_api_admin as ta_admin
 
 # Error Codes 200-209
+VERSION = 1.1
 
 
 def auth(server, site):

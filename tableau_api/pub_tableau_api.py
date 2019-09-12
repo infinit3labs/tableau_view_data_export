@@ -10,6 +10,7 @@ import tableau_api.pvt_tableau_api_admin as ta_admin
 
 # Options: 'local' = run on personal computer; 'dw' run on DW server
 ENVIRONMENT = 'dw'
+VERSION = 1.1
 
 
 def term_red(skk): print("\033[91m{}\033[00m".format(skk))

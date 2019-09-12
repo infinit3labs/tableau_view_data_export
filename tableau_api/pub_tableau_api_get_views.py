@@ -4,6 +4,7 @@ import json
 import tableau_api.pub_tableau_api_urls as ta_urls
 
 # Error Codes: 210-219
+VERSION = 1.1
 
 
 def get_views(server, site, headers):

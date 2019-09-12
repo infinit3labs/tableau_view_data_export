@@ -3,6 +3,8 @@ import datetime
 import csv
 import os
 
+VERSION = 1.1
+
 
 def csv_writer(obj, root_folder='Testing', sub_folder='Testing', file_name=None, env='local', header=None):
     """

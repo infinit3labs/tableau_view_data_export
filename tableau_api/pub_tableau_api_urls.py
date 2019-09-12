@@ -1,3 +1,5 @@
+VERSION = 1.1
+
 urls = {
     'sign-in': 'http://{server}/api/3.4/auth/signin',
     'sign-out': 'http://{server}/api/3.4/auth/signout',

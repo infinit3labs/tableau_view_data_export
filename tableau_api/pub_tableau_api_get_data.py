@@ -1,10 +1,11 @@
 import requests
 import csv
 
-import writer
+import tableau_api.pub_writer as writer
 import tableau_api.pub_tableau_api_urls as ta_urls
 
 # Error Codes: 220-229
+VERSION = 1.1
 
 
 def get_data(server, site_data, view_data, headers, loc=None, env='local'):
