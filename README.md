@@ -12,8 +12,8 @@ The separation of permissions requires each client to have a different site on t
 * *pub_tableau_api_get_views* : this module returns a list of all views within a site and allows the user to choose a view for export.
 * *pub_tableau_api_urls* : this is a plain dictionary with API urls.
 
-## Version 1.1
+## Version 0.1
 * initial release (12 Sept 2019)
 
-## Version 1.2
+## Version 0.2
 * allow the user to select filters on the views before export.
